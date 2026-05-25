@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 196, 196);
+    text-align: center;
+}
+.cartao{
+    width: 40%;
+    background-color: cornsilk;
+    margin: auto;
+}
+img {
+    width: 150px;
+}
+p{
+    color: red;
+}
+h1{
+    color:chocolate
+}
+h2{
+    color:deeppink;
+}
+i{
+    color: brown;
+}
