@@ -1,11 +1,16 @@
 body{
     background-color: rgb(255, 196, 196);
     text-align: center;
+    height: 100vb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .cartao{
     width: 40%;
     background-color: cornsilk;
     margin: auto;
+    border-radius: 15%;
 }
 img {
     width: 150px;
@@ -21,4 +26,7 @@ h2{
 }
 i{
     color: brown;
+}
+A{
+    text-decoration: none;
 }
