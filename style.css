@@ -16,7 +16,9 @@ body{
     border-style: groove;
 }
 img {
+    margin-top: 40px;
     width: 150px;
+    border-radius: 15%;
 }
 p{
     color: red;
