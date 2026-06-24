@@ -1,37 +1,35 @@
 body{
-    /*background-color: rgb(255, 196, 196);*/
-    background-image: url("Laufey_performing_at_Wiener_Stadthalle_in_Vienna\,_Austria_on_February_26th_2026_-_29.jpg");
-    background-size: 20%;
+background-color: rgb(244, 157, 172);
+background-size: 20%;
     text-align: center;
     height: 100vb;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.cartao{
-    width: 40%;
+
+.fãclub{
+     width: 40%;
     background-color: rgba(255, 248, 220, 0.86);
     margin: auto;
     border-radius: 15%;
     border-style: groove;
 }
+
 img {
     margin-top: 40px;
     width: 150px;
     border-radius: 15%;
 }
 p{
-    color: red;
+    color: rgb(33, 138, 70);
 }
 h1{
-    color:chocolate
+    color:rgb(241, 0, 141)
 }
 h2{
-    color:deeppink;
+    color:rgb(255, 205, 55);
 }
 i{
-    color: brown;
-}
-A{
-    text-decoration: none;
+    color: rgb(243, 17, 17);
 }
